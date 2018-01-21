@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Recycler Assignment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="movie_genre">(Action , Thriller , Science  , Fiction , Mystery)</string>
+    <string name="movie_title">Blade Runner 2049</string>
+    <string name="popularity">Current Popularity</string>
+    <string name="overview">Movie Overview</string>
+    <string name="no_data_to_display">No Data To Display</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="movie_description">Fueled by his restored faith in humanity and Fueled by his restored faith in humanity and Fueled by his restored faith in humanity and Fueled by his restored faith in humanity and Fueled by his restored faith in humanity and </string>
+    <string name="justice_league">Justice League</string>
+    <string name="released_january_2017">Released : January 2017</string>
+    <string name="blade_runner_2043">Blade Runner 2043</string>
+    <string name="_2_hr_0_mins">2 hr 0 mins</string>
+    <string name="review">Reviews \n When it was first announced that 2016 would see Batman V Superman and Suicide Squad movies, I said to myself \"Okay, I didn\'t like Man of Steel, but there\'s two very different DC entries coming up, I\'ll watch both of them, and if I like even one of them I\'m willing to give this franchise a go.\"  I didn\'t like either of them.  Marvel had never interested me growing up. I was a Batman-kid through and through, so as hard as a decision as it was to make, I decided I wouldn\'t be back to watch this run of DC movies, because for me, it was three swings, three misses.  Enter Wonder Woman… read the rest.When it was first announced that 2016 would see Batman V Superman and Suicide Squad movies, I said to myself \"Okay, I didn\'t like Man of Steel, but there\'s two very different DC entries coming up, I\'ll watch both of them, and if I like even one of them I\'m willing to give this franchise a go.\"  I didn\'t like either of them.  Marvel had never interested me growing up. I was a Batman-kid through and through, so as hard as a decision as it was to make, I decided I wouldn\'t be back to watch this run of DC movies, because for me, it was three swings, three misses.  Enter Wonder Woman… read the rest.When it was first announced that 2016 would see Batman V Superman and Suicide Squad movies, I said to myself \"Okay, I didn\'t like Man of Steel, but there\'s two very different DC entries coming up, I\'ll watch both of them, and if I like even one of them I\'m willing to give this franchise a go.\"  I didn\'t like either of them.  Marvel had never interested me growing up. I was a Batman-kid through and through, so as hard as a decision as it was to make, I decided I wouldn\'t be back to watch this run of DC movies, because for me, it was three swings, three misses.  Enter Wonder Woman… read the rest.When it was first announced that 2016 would see Batman V Superman and Suicide Squad movies, I said to myself \"Okay, I didn\'t like Man of Steel, but there\'s two very different DC entries coming up, I\'ll watch both of them, and if I like even one of them I\'m willing to give this franchise a go.\"  I didn\'t like either of them.  Marvel had never interested me growing up. I was a Batman-kid through and through, so as hard as a decision as it was to make, I decided I wouldn\'t be back to watch this run of DC movies, because for me, it was three swings, three misses.  Enter Wonder Woman… read the rest.</string>
+
+    <string-array name="movie_title">
+        <item>It</item>
+        <item>Blade Runner 2049</item>
+        <item>Thor: Ragnarok</item>
+        <item>Minions</item>
+        <item>Happy Death Day</item>
+    </string-array>
+
+</resources>

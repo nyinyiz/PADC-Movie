@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:layout_marginEnd="@dimen/margin_medium">
+    <TextView
+        android:id="@+id/tv_trailer_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Comic_Con Sneak Peek"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:gravity="end"
+        android:padding="@dimen/margin_small"
+        />
+    <ImageView
+        android:id="@+id/iv_trailer_movie"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/trailer_image"
+        android:scaleType="centerCrop"/>
+    <TextView
+        android:id="@+id/tv_trailer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trailer"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:layout_alignParentBottom="true"
+        android:padding="@dimen/margin_small"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_play_circle_outline"
+        android:scaleType="center"/>
+</RelativeLayout>
